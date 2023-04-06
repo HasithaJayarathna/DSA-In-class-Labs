@@ -59,9 +59,9 @@ public:
 
 int main(){
     Stack s;
-    int size;
-    cout << "Enter size of the stack: ";
-    cin >> size ;
+    //int size;
+    //cout << "Enter size of the stack: ";
+    //cin >> size ;
     auto start = steady_clock::now();
     //Time start.
 

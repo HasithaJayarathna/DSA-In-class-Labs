@@ -63,7 +63,7 @@ struct HashTable{
 	//add an if condition to complete the code here
 
         if(empty){
-            cout << "Password not found.\n";
+            cout << "User not found.\n";
         }
         else{
             cout << password[hash] << endl;
